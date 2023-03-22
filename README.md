@@ -1,1 +1,1 @@
-# q-sharp
+Contains quantum computing code written in Q#
